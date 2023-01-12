@@ -75,4 +75,4 @@ As I mentioned before, this article helped me learn about parent-child relations
 
 - GitHub - [@JakeHand](https://github.com/JakeHand)
 - Frontend Mentor - [@JakeHand](https://www.frontendmentor.io/profile/@JakeHand)
-- Email - [@jakehandp@gmail.com]
+- Email - (@jakehandp@gmail.com)
