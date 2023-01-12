@@ -1,0 +1,107 @@
+html {
+    background-color: hsl(217, 54%, 11%);
+    font-family: 'Outfit';
+    color: hsl(215, 51%, 70%);   
+}
+
+body {
+    display: grid;
+    place-content: center;
+    min-height: 100vh;
+}
+
+main {
+    width: 20.5rem;
+    height: 34rem;
+    background-color: hsl(216, 50%, 16%);
+    border-radius: 0.8rem;
+}
+
+section {
+    margin: 1.5rem;
+}
+
+/* NFT art */
+#nft-art-container {
+    display: grid;
+    place-content: center;
+    background-image: url('./images/image-equilibrium.jpg');
+    background-size: cover;
+    height: 17.5rem;
+    width: 17.5rem;
+    border-radius: 0.6rem;
+}
+
+#nft-art-container:hover {
+    background-color: rgba(0, 255, 247, 60%);
+    background-blend-mode: screen;
+    cursor: pointer;
+}
+
+#view-icon {
+    width: 2.8rem;
+    height: 2.8rem;
+    display: none;
+}
+
+#nft-art-container:hover #view-icon {
+    display: block;
+}
+
+/* Description */
+h1 {
+    color: white;
+    font-size: 1.4rem;
+    margin-bottom: 0;
+}
+
+h1:hover, #creator:hover {
+    color:hsl(178, 100%, 50%);
+    cursor: pointer;
+}
+
+#description {
+    line-height: 1.6rem;
+    margin-top: 0.8rem;
+}
+
+/* Stats */
+#stats-container {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    font-size: 0.9rem;
+}
+
+.span-container {
+    display: flex;
+    align-items: center;
+}
+
+.icon {
+    padding-right: 0.4rem;
+}
+
+#eth {
+    color: hsl(178, 100%, 50%);
+}
+
+/* Creator */
+#creator-container {
+    border-top: 1px solid hsl(215, 32%, 27%);
+    margin-top: 1.1rem;
+    padding-top: 0.7rem;
+    font-size: 0.95rem;
+}
+
+#avatar {
+    height: 2rem;
+    border: 1px solid white;
+    border-radius: 1rem;
+    margin-right: 1rem;
+}
+
+#creator {
+    color: white;
+    padding-left: 0.3rem;
+}
