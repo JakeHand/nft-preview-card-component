@@ -1,5 +1,6 @@
 # Frontend Mentor - NFT preview card component solution
 
+&nbsp;  
 This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 &nbsp;  
@@ -16,6 +17,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
+&nbsp;  
 ## Overview
 
 ### The challenge
@@ -34,7 +36,7 @@ Users should be able to:
 - Solution URL: (https://github.com/JakeHand/nft-preview-card-component)
 - Live Site URL: (https://jakehand.github.io/nft-preview-card-component/)
 
-<br>  
+&nbsp;  
 ## My process
 
 ### Built with
@@ -64,7 +66,7 @@ I am going to continue with these Frontend Mentor projects and gradually increas
 - [GeeksforGeeks parent-child CSS relationships](https://www.geeksforgeeks.org/how-to-affect-other-elements-when-one-element-is-hovered-in-css/) - 
 As I mentioned before, this article helped me learn about parent-child relationships in CSS and how you can use one to alter the other.
 
-<br>  
+&nbsp;  
 ## Author
 
 - GitHub - [@JakeHand](https://github.com/JakeHand)
