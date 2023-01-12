@@ -73,6 +73,8 @@ As I mentioned before, this article helped me learn about parent-child relations
 &nbsp;  
 ## Author
 
+I am looking for a remote front end developer job. Contact me via email below.
+
+- Email - jakehandp@gmail.com
 - GitHub - [@JakeHand](https://github.com/JakeHand)
 - Frontend Mentor - [@JakeHand](https://www.frontendmentor.io/profile/@JakeHand)
-- Email - (@jakehandp@gmail.com)
